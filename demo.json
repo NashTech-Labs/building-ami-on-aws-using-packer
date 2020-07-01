@@ -1,0 +1,10 @@
+{
+  "aws_region":        "us-east-1",
+  "aws_source_ami":    "ami-0a0ddd875a1ea2c7f",
+  "owner":             "knoldus",
+  "environment":       "demo",
+  "aws_instance_type": "t2.medium",
+  "aws_vpc_id":        "vpc-04e6d5de63ff95c58",
+  "aws_subnet_id":     "subnet-03ed5d62e9b58e112",
+  "ssh_username":      "ubuntu"
+}
